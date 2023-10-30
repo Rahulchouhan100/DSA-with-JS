@@ -3,7 +3,7 @@
 # Array Challenge.
 1.  Find a duplicate number in an array of integers.
 2.  Find the smallest number in Array.
-3.  Find the largest and smallest number in an unsorted array of integers.
+3.  Find the largest and smallest number and second largest in an unsorted array of integers.
 4.  Remove all duplicates from an array of integers.
 5.  Sort An Array.
 6.  Create a function that receives an array of numbers and returns an array containing only the positive numbers.
